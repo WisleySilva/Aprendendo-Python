@@ -1,5 +1,5 @@
 #Exibir na tela as quatros operações aritiméticas entre dois números
-"""
+
 print("*"*50)
 
 num1 = int(input("Digite um número: "))
@@ -35,7 +35,7 @@ tv = 950
 desc = 15
 novo_preco = tv * (1 - desc/100)
 print(f"Nossa linda Smart TV com 15% OFF por apenas: R$:{novo_preco}")
-"""
+
 
 import time
 
@@ -51,7 +51,7 @@ for contagem in range(10, -1, -1):
 
 print("Feliz ano novo!!🎆🎆🎆")
 
+#Numeros pares ate 50
 for par in range(0, 50, 2):
     print(par)
 
-print(par)
