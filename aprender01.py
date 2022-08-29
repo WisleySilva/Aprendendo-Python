@@ -52,6 +52,6 @@ for contagem in range(10, -1, -1):
 print("Feliz ano novo!!🎆🎆🎆")
 
 #Numeros pares ate 50
-for par in range(0, 50, 2):
+for par in range(0, 40, 1):
     print(par)
 
